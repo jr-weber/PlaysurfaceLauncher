@@ -38,6 +38,5 @@ moc_*.cpp
 
 HideTaskBar/obj/*
 HideTaskBar/bin/*
-HideTaskBar/
 OpenTaskBar/obj/*
 OpenTaskBar/bin/*
