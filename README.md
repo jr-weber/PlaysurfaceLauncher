@@ -127,6 +127,43 @@ an "About..." box and a "Menu System Help" option that
 opens a tabbed panel with info on each of the menus in 
 the menubar.
 
+Possible Configuration Issues:
+
+1. In the Visual Studio 2013 Properties box for the PlaysurfaceLauncher project,
+   the Linker -> General -> Additional Library Directories box will show
+   $(QTDIR)\lib, where QTDIR is the name of an environment variable that
+   has the path "C:\Qt\Qt-5.4.1\5.4\msvc2013_opengl" on my machine.
+   You will likely need to either create a QTDIR environment variable or
+   simply replace "$(QTDIR)" with the actual path for your installation 
+   of the Qt framework libraries.
+2. Another properties box setting that should be checked is 
+   Configuration Properties -> Debugging -> Working Directory.  The value
+   for Working Directory should be $(OutDir), not $(ProjectDir).  Setting
+   the working directory to the output directory (the top level Release 
+   or Debug directory) will matter when PlaysurfaceLauncher is started up 
+   through Visual Studio.  The output directory contains an XML
+   configuration file, Data/Settings/PlaysurfaceLauncher.xml that is read
+   in at program startup.  If the XML configuration file cannot be
+   found, PlaysurfaceLauncher will open up a warning box and then use
+   default settings.
+3. If you distribute a release version of PlaysurfaceLauncher, you should copy 
+   the following Qt Framework dynamic library into the same directory as 
+   the executable, as you have no guarantee that these DLLs will be on a 
+   non-developer machine:
+   
+       platforms/qwindows.dll
+       icudt53.dll
+       icuin53.dll
+       icuuc53.dll
+       Qt5Core.dll
+       Qt5Gui.dll
+       Qt5Multimedia.dll
+       Qt5Network.dll
+       Qt5Widgets.dll
+       Qt5Xml.dll
+	   
+    Note that "qwindows.dll" must be in a subdirectory named "platforms".
+	
 Acknowledgements:
 
 1. To allow the PlaysurfaceLauncher to respond to TUIO touch events, the
