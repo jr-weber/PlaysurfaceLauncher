@@ -1,0 +1,48 @@
+The first time you launch a Flash application with the PlaysurfaceLauncher, 
+the multitouch will probably not work because you need to give the 
+Flash Player permission to run any Flash applications that are in the 
+MultitouchApps directory of the PlaysurfaceLauncher installation.
+
+Here is a summary of how to set a Flash Player "Trusted Location" directory:
+
+1. Use the PlaysurfaceLauncher to open a Flash application such as Fire (the
+   one with the flames icon).
+
+2. Right-click anywhere on the black surface of the Fire application and select 
+   "Global Settings..." from the pop-up menu.  A dialog box with a title 
+   like "Flash Player Settings Manager" should open up.
+
+3. Click on the "Advanced" tab in the Settings Manager.
+
+4. Scroll down a little and you should see a button with the title 
+   "Trusted Location Settings...".  Click that button and a dialog box 
+   with the title "Trusted Location Settings" should open up.
+
+5. Click on the "Add..." button near the bottom of the "Trusted Location
+   Settings" dialog box.  An "Add Site" dialog box will open up.
+
+6. In the "Add Site" dialog box, click on the "Add Folder..." button.
+   A "Browse for Folder" dialog box will open up.
+
+7. If you installed the PlaysurfaceLauncher in the default location, then 
+   you will use the "Browse for Folder" dialog box to select the following 
+   directory under Windows Drive C (assuming that drive C is your primary 
+   drive, which it usually is):
+
+   Drive (C:)
+       Program Files (x86)
+           FTL Labs
+               Playsurface Launcher
+                   MultouchApps
+
+8. With the "MultitouchApps" directory selected, click  the "OK" button.
+
+9. In the "Add Site" dialog box, you must hit the "Confirm" button to add the 
+   directory.  Now it should show up in the list of trusted location in the 
+   "Trusted Location Settings", so you can click the "Close" button, and then 
+   close the Settings Manager dialog.
+
+10. You will need to quit the Flash application and restart it for the 
+    change to take effect.  If you reopen the Fire application, you should 
+    see something like flames when you drag your fingers over the surface of 
+    your touch table.

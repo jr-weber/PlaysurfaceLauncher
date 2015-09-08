@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlaysurfaceLauncher", "PlaysurfaceLauncher\PlaysurfaceLauncher.vcxproj", "{7A18B256-5B75-4F9F-93E0-DF1B6EC2274B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenTaskbar", "OpenTaskbar\OpenTaskbar.vcxproj", "{C38D334E-55FB-4616-A22B-76F6D0ED6B7E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HideTaskbar", "HideTaskbar\HideTaskbar.vcxproj", "{4445D0D6-C5DA-4CB3-86F1-F822CB0B67F5}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PlaysurfaceLauncherInstaller", "PlaysurfaceLauncherInstaller\PlaysurfaceLauncherInstaller.vdproj", "{C41D2ADB-37F5-484F-8886-9CDAF8C180B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A18B256-5B75-4F9F-93E0-DF1B6EC2274B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7A18B256-5B75-4F9F-93E0-DF1B6EC2274B}.Debug|Win32.Build.0 = Debug|Win32
+		{7A18B256-5B75-4F9F-93E0-DF1B6EC2274B}.Release|Win32.ActiveCfg = Release|Win32
+		{7A18B256-5B75-4F9F-93E0-DF1B6EC2274B}.Release|Win32.Build.0 = Release|Win32
+		{C38D334E-55FB-4616-A22B-76F6D0ED6B7E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C38D334E-55FB-4616-A22B-76F6D0ED6B7E}.Debug|Win32.Build.0 = Debug|Win32
+		{C38D334E-55FB-4616-A22B-76F6D0ED6B7E}.Release|Win32.ActiveCfg = Release|Win32
+		{C38D334E-55FB-4616-A22B-76F6D0ED6B7E}.Release|Win32.Build.0 = Release|Win32
+		{4445D0D6-C5DA-4CB3-86F1-F822CB0B67F5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4445D0D6-C5DA-4CB3-86F1-F822CB0B67F5}.Debug|Win32.Build.0 = Debug|Win32
+		{4445D0D6-C5DA-4CB3-86F1-F822CB0B67F5}.Release|Win32.ActiveCfg = Release|Win32
+		{4445D0D6-C5DA-4CB3-86F1-F822CB0B67F5}.Release|Win32.Build.0 = Release|Win32
+		{C41D2ADB-37F5-484F-8886-9CDAF8C180B2}.Debug|Win32.ActiveCfg = Debug
+		{C41D2ADB-37F5-484F-8886-9CDAF8C180B2}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

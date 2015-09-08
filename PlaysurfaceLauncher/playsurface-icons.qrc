@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>QResources/icons/Yes-playsurface-icon.png</file>
+        <file>QResources/icons/No-playsurface-icon.png</file>
+        <file>QResources/logos/Playsurface-Blue-200x49.png</file>
+        <file>QResources/icons/Reload-Circle-playsurface-icon.png</file>
+        <file>QResources/logos/Playsurface-Hand-Logo-1920x1080.png</file>
+        <file>QResources/icons/BigBlobby-playsurface-icon.png</file>
+        <file>QResources/logos/Playsurface-200x70.png</file>
+        <file>QResources/icons/avatar-red.gif</file>
+        <file>QResources/icons/avatar-cat.gif</file>
+        <file>QResources/icons/Shutdown-playsurface-icon.png</file>
+        <file>QResources/icons/Cancel-Return-PlaysurfaceLauncher.png</file>
+        <file>QResources/icons/Shutdown-Computer.png</file>
+        <file>QResources/icons/Shutdown-PlaysurfaceLauncher.png</file>
+        <file>QResources/icons/TouchHooks2Tuio-playsurface-icon.png</file>
+        <file>QResources/icons/Windows-8-playsurface-icon.png</file>
+    </qresource>
+</RCC>

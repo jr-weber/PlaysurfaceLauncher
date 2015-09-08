@@ -1,0 +1,12 @@
+<PlaysurfaceLauncherSettings>
+
+    <Options>
+        <TouchDetection> BigBlobby </TouchDetection>
+        <ShowShutdownComputerIcon> true </ShowShutdownComputerIcon>
+    </Options>
+
+    <Gestures>
+        <UsePlusSignToQuitApps> true </UsePlusSignToQuitApps>
+    </Gestures>
+
+</PlaysurfaceLauncherSettings>

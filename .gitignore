@@ -1,0 +1,43 @@
+# PlaysurfaceLauncher executable
+PlaysurfaceLauncher/bin/PlaysurfaceLauncher.exe
+
+# MSI installer files (enormous in size)
+PlaysurfaceLauncherInstaller/Release/PlaysurfaceLauncherInstaller.msi
+PlaysurfaceLauncherInstaller/Debug/PlaysurfaceLauncherInstaller.msi
+PlaysurfaceLauncherInstaller/Release/setup.exe
+PlaysurfaceLauncherInstaller/Debug/setup.exe
+
+# Qt-framework DLLs (only needed for Release version of program)
+PlaysurfaceLauncher/bin/platforms/*
+PlaysurfaceLauncher/bin/icudt53.dll
+PlaysurfaceLauncher/bin/icuin53.dll
+PlaysurfaceLauncher/bin/icuuc53.dll
+PlaysurfaceLauncher/bin/Qt5Core.dll
+PlaysurfaceLauncher/bin/Qt5Multimedia.dll
+PlaysurfaceLauncher/bin/Qt5Network.dll
+PlaysurfaceLauncher/bin/Qt5Widgets.dll
+PlaysurfaceLauncher/bin/Qt5Xml.dll
+
+# Intermediate files and directory
+PlaysurfaceLauncher/GeneratedFiles/*
+PlaysurfaceLauncher/obj/Debug/*
+PlaysurfaceLauncher/obj/Release/*
+
+# Machine specific
+PlaysurfaceLauncher/PlaysurfaceLauncher.vcxproj.user
+
+# Miscellaneous unneeded files
+*.obj
+moc_*.cpp
+*.ncb
+*.suo
+*.sdf
+*.log
+*.msi
+*output_log.txt
+
+HideTaskBar/obj/*
+HideTaskBar/bin/*
+HideTaskBar/
+OpenTaskBar/obj/*
+OpenTaskBar/bin/*

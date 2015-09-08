@@ -1,0 +1,903 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{46b7a0e9-af96-452a-b33d-e5b7e09680f6}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{acd96c33-71e1-4a29-af50-53789543f0f0}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\gui\AppIcon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\app\AppInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\app\AppInfoList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\app\AppLauncher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\CentralWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\ConfirmExitBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\ConfirmShutdownBox.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\DialogBoxUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\io\DirectoryReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\logger\FileLogger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\FileNotFoundException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\FileNotReadableException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\FullScreenWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gestures\GestureDetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gestures\GestureResult.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\Help.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\sound\IconSound.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\IOException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gestures\LineGesture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\oscpack\ip\win32\NetworkingUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\oscpack\osc\OscPrintReceivedElements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\oscpack\osc\OscReceivedElements.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\oscpack\osc\OscTypes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\PaintWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\playsurface\Playsurface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\PlaysurfaceException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\serialport\ProjectorPort.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\qextserialport\qextserialenumerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\qextserialport\qextserialenumerator_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\qextserialport\qextserialport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\qextserialport\qextserialport_win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\qtuio\QTuio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\xml\SettingsValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\xml\SettingsXmlReader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\SettingsXmlReaderException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\xml\SettingsXmlWriter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\SettingsXmlWriterException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gestures\SidewaysSwipe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\TaskbarUtility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\TouchDetector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\tuio\TuioClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\tuio\TuioTime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\tuio\oscpack\ip\win32\UdpSocket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\UnknownXmlTagException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\exceptions\ValidatorException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\WindowUtility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\XmlDialogBoxUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\XmlSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_playsurface-icons.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_AppLauncher.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_CentralWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ConfirmExitBox.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ConfirmShutdownBox.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_DirectoryReader.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_FullScreenWindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_Help.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_LineGesture.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_PaintWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ProjectorPort.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qextserialenumerator.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qextserialport.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_SidewaysSwipe.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_XmlSettings.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_AppLauncher.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_CentralWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ConfirmExitBox.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ConfirmShutdownBox.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_DirectoryReader.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_FullScreenWindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_Help.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_LineGesture.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_PaintWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ProjectorPort.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_qextserialenumerator.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_qextserialport.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_SidewaysSwipe.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_XmlSettings.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="src\enums\TuioSourceEnum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_Playsurface.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_Playsurface.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\StopWatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\utils\EdgeGesturesUtility.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_EdgeGesturesUtility.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_EdgeGesturesUtility.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_BigBlobbyClient.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_BigBlobbyClient.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="src\localclient\BigBlobbyClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\localclient\TouchHooksClient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_TouchHooksClient.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_TouchHooksClient.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="src\gui\HelpMenuWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_HelpMenuWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_HelpMenuWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PlaysurfaceLauncher.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="src\app\AppInfo.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\app\AppLauncher.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\CentralWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\ConfirmExitBox.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\ConfirmShutdownBox.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\io\DirectoryReader.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\FullScreenWindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\Help.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gestures\LineGesture.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\PaintWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\serialport\ProjectorPort.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\qextserialport\qextserialenumerator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\qextserialport\qextserialport.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gestures\SidewaysSwipe.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\TouchDetector.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\XmlSettings.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\ConfirmExitBox.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\ConfirmShutdownBox.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Arrow.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\avatar-cat.gif">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\avatar-red.gif">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\BigBlobby-playsurface-icon.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\Cancel-Return-PlaysurfaceLauncher.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Caret-1-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Caret-1-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Caret.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\CheckMark.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle-1-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle-1-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle-2-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle-2-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle-3-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle-3-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\error-testing\Circle_1-error1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_1-error1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_1-error2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\error-testing\Circle_1-error2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_1-error3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\error-testing\Circle_1-error3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_1-error4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\error-testing\Circle_1-error4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\error-testing\Circle_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_5.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_6.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_7.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Circle_8.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\CircleClockwise.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\CircleCounterClockwise.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Delete.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Diamond.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Half-Circle-cc.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Half-Circle-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Half-Circle-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\LeftToRightLine.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\LineDownDiagonal.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\No-playsurface-icon.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Pigtail.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-200x53.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-200x70.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Blue-200x 49.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Blue-200x49.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Blue-250x61.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Blue-300x55.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Blue-300x73.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Blue-Icon-300x73.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Hand-Logo-1920x1080.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="playsurface-icons.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\logos\Playsurface-Multicolor-200x148.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\QuestionMark.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Ragged-Line-1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Ragged-Line-2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Rectangle.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\RightToLeftLine.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\RightToLeftLine2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\RightToLeftSlashDown.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\Shutdown-Computer.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\Shutdown-playsurface-icon.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\Shutdown-PlaysurfaceLauncher.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral-1-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral-1-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_5.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_6.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_7.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Spiral_8.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square-1-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square-1-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_5.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_6.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_7.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Square_8.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_5.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_6.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_7.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Star_8.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\TouchHooks2Tuio-playsurface-icon.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle-1-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle-1-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_5.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_6.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_7.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Triangle_8.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\V.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave-1-ccw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave-1-cw.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_1.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_2.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_3.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_4.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_5.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_6.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_7.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\Wave_8.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\gestureTemplates\X.xml">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\Yes-playsurface-icon.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="QResources\icons\Reload-Circle-playsurface-icon.png" />
+    <CustomBuild Include="Resources\Play3.ico" />
+    <CustomBuild Include="resource.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\app\AppInfoList.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\FileNotFoundException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\FileNotReadableException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\IOException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\PlaysurfaceException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\SettingsXmlReaderException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\SettingsXmlWriterException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\UnknownXmlTagException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\exceptions\ValidatorException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gestures\GestureDetector.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gestures\GestureResult.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\AppIcon.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\DialogBoxUtils.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\XmlDialogBoxUtils.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\logger\FileLogger.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\logger\Log.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\playsurface\Playsurface.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\qextserialport\qextserialenumerator_p.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\qextserialport\qextserialport_global.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\qextserialport\qextserialport_p.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\qtuio\QTuio.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\sound\IconSound.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\ip\NetworkingUtils.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\ip\PacketListener.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\ip\TimerListener.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\ip\UdpSocket.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\osc\OscException.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\osc\OscHostEndianness.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\osc\OscPacketListener.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\oscpack\osc\OscTypes.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioBlob.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioClient.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioContainer.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioCursor.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioListener.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioObject.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioPoint.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\tuio\tuio\TuioTime.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\utils\TaskbarUtility.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\utils\WindowUtility.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\xml\SettingsValidator.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\xml\SettingsXmlReader.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\xml\SettingsXmlWriter.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GeneratedFiles\ui_ConfirmExitBox.h">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GeneratedFiles\ui_ConfirmShutdownBox.h">
+      <Filter>Generated Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\utils\EdgeGesturesUtility.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\localclient\BigBlobbyClient.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\localclient\TouchHooksClient.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\MenuHelpWidget.ui">
+      <Filter>Form Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="src\gui\HelpMenuWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\enums\TuioSourceEnum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\utils\StopWatch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneratedFiles\ui_MenuHelpWidget.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
