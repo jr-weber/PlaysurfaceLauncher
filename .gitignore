@@ -35,6 +35,7 @@ moc_*.cpp
 *.log
 *.msi
 *output_log.txt
+*.db
 
 HideTaskBar/obj/*
 HideTaskBar/bin/*

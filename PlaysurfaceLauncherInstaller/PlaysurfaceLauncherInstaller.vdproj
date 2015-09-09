@@ -15,13 +15,43 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_00B4049293A50F583B617CD40A1A5678"
+        "OwnerKey" = "8:_720A22D5BC8B4C278C2C3A952D17081D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_00B4049293A50F583B617CD40A1A5678"
+        "OwnerKey" = "8:_25BA0F135B924575B5D2F8D3D1766593"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_013A8B2A14204B9B86713EAB18DEC37D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_04DBB00BD5714968AD2AA0E7CD4EDE29"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_074F5FD6E1644F7FAB4B37838F181B04"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_07A9A36DF1A44246A97697FD8D744EBA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_086CB6A078AF47B5ACAE057FAE59DA2A"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -45,7 +75,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_0DC083300DD547FF9DA437C55CBF4653"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0EDE0C5B09A14DC6888AE6C23DB68F0D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_107F052065C943178714540F33C040BF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_164E92628CBB426EB9713601ABF47A91"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -63,13 +111,67 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_1E3CED057F6045A2A4C925B04D1B63F2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1E3E6AA9A05F4B968ECB6D962FDC4F0E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_1F67D78E82C94D97AD5F4B21CF0056DF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_2094C9B2591642D3A35675AC5604D0FB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_21288894467F48679B4C62C4C9A29833"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2128919AB8B64F66A8B917C7B116A831"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_21EF2AC529B043A197620D24C3591163"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_23DFB6953624400B87D106583D2BF29A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_259D2D8F08334A87B2B44A6B15F8CA77"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_25BA0F135B924575B5D2F8D3D1766593"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_266319C34C9443B4B6B28DC893F0DDCA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -99,13 +201,43 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_2B61479D7E1447F0840085A9DFF7FF13"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2D3C762158B645AD8FB196395BA31134"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2E94D055B59849B7B84CA2FCEF8023DB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_301BA77981E44424B0B84041DBC71F3F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_3497ECED63F44862A7D21E106F91E568"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_357536121C67423CBDC5D0D9FE32C931"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_360A90D7F35F4C4D865FCD59896C68E0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -129,6 +261,24 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_380B3343B86A488E8F2B7086318A6ACF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3848EAFA7B5F4A7DBF2B7D0769C70D4E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_3B2CC2E1FF5A46819A5E1A1750844D80"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_3C011E49515E46E1A9F624895A68D7A3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -136,6 +286,18 @@
         "Entry"
         {
         "MsmKey" = "8:_3E65C6624BE94B03895C060C821BC20D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_40EC1BB47407452FB2AB3388806860A2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46C8580455CD49C896C41B7238FDA915"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -165,6 +327,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_4BD2FA24BD694C39B4687923F893126D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_4E3507124C5F4FE59E6AA7D0DBFF9DBA"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -177,7 +345,43 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_51BB625890494DC1B00D5B8638A0F0FF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_51D9004E564141638B931293F30DF761"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_52DD8E643A0A478F880BFDAB9F5AC7AB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5398FA03FD3248A49B7FD840720BE157"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_549DF76670AF4220AD4C3DCAFAA05C03"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_567AEA1F72F84C9293B0A0E1B89EA814"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_56E810E9371A4FCF8670FCDA5C5B83AB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -213,6 +417,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_5A704F16D08C4B668A8AB7F934ED37E7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_5B00327E006541DAAE6B652B6A025E6F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -225,19 +435,67 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_5C966AE2CF8D4EF99C204914D8946D0E"
+        "MsmKey" = "8:_5C0084D91C11417689307DDC6F4E1B31"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_5DA44D22D2214E1EB8EC4DA5092041CF"
+        "MsmKey" = "8:_5C43F393FAB4457E9B5AEB9138777BDE"
         "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5E56F235C70A42D399CFDB45590F3899"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "OwnerKey" = "8:_BC11F043C387484BB0B095BDF4CB601C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "OwnerKey" = "8:_F0D2DBA3B09B4AD4A46D557D23098A97"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "OwnerKey" = "8:_E6AFC19C98254E58BD509A3FA59D1501"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "OwnerKey" = "8:_D2354427FA674B5D83BCDC974213E44F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "OwnerKey" = "8:_80C5950DF5D84766A4CA13431C4ED17B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "OwnerKey" = "8:_D9C275D58E96455782287BA536E6C714"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_5F753507554A4F8E9BA8C9E867425888"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_60B0EB43C69940F0BC759CD46415F8C0"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -255,13 +513,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_66AC5AB2FDD64FBABCF8C6CC2AABBB5F"
+        "MsmKey" = "8:_660442795AD1477590120D3979114537"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_67D512D687DE40209A90DC696BF584CB"
+        "MsmKey" = "8:_66AC5AB2FDD64FBABCF8C6CC2AABBB5F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -273,7 +531,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6B5B98AE70B34BF188AE7828E6634793"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_6D3F1F0585154414BF607EB77832608F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6DC55D4570AC459C99F80C9A05342425"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -297,7 +567,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_70D639B9453549AD898133401B25E0EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_71657339DC3F46989F5E38B847F41679"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_720A22D5BC8B4C278C2C3A952D17081D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -321,6 +603,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_735180B16C8FB5A7CB6D49834511A859"
+        "OwnerKey" = "8:_60B0EB43C69940F0BC759CD46415F8C0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_735180B16C8FB5A7CB6D49834511A859"
+        "OwnerKey" = "8:_803331D4DB644E17B42DF0CBCB0D74B7"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_75AF88ACE6684F458D28D6CD16C81F93"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -328,6 +622,12 @@
         "Entry"
         {
         "MsmKey" = "8:_7634BFA3C58A41F68E2064DFF44D5A22"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_76479ADCA91845759E25BBB9363FDE95"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -345,7 +645,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_7860CF0C49BE40E6BFC091B7B40157BE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_788B8D080BA54D08922FBF8D34FADE3A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7B022192936A4CECB10576D835AACA7D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -357,13 +669,49 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_7CD20F0A9F7A4651A581ECFD2C712A75"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7D613255A0B142F4AE14C587832EE5BD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7DFED5C60DFA4D43AAB76C0EE3A1373F"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_7E3FB0ACF74848199097D2AF95958325"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_7F3B6414066545058F7FBD3D779776B4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_803331D4DB644E17B42DF0CBCB0D74B7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_804D821C68BA46B5BB3EEE2A41D6680E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_80C5950DF5D84766A4CA13431C4ED17B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -393,6 +741,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_836042FDEEDD403385E2D0743B9C0806"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_83CC70BDC0464AE8A6A4AC34223DC395"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -400,6 +754,54 @@
         "Entry"
         {
         "MsmKey" = "8:_856AAFBC8AEB437D83EBAC4FEE4238CB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_86DB3D053EA44755944EC10FDF4CCD3E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_882551B8FE1F4C72A0F94FF198654884"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_890C90E63C6547F99770BE3883B5C4F8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_89FD0591B23843DFABCED6539CDC2B4D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8B059FBC5094418BBBE0A8FE8E488FD4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8BB78BD68E4E4BAB9215301DFA32764D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8CB1D7C335194481A6319FB2E99EF576"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8D59B8F4F60B45AA87EE77FEA03965C1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -417,6 +819,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_8FC7BB0C6EF549B1A969E2E1AC109EA8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9176FE75F10D4823A281B3351E5CD991"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -424,6 +832,12 @@
         "Entry"
         {
         "MsmKey" = "8:_938203BFBC6A4AE29EB0680AA95000F6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_938DEABC00DA41EABC2395BD9396DDDB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -447,6 +861,18 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_9962AF4A7B464AB894D09EFFF84BDCE8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9A7B7FC940764D28A56CD5F702B476D9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_9C2E47EB38524AD4AF82ADDC5EAD0FB3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -465,6 +891,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_A2741253E708439788BE00DC799F8AC6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_A2C05A39FA7C430F8C06ECA07F635223"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -472,6 +904,24 @@
         "Entry"
         {
         "MsmKey" = "8:_A3241B3792A045C0A09881C562BC05CA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A33A05725EC64703AE98654B09032190"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5954717966947048F5FE1777E78C250"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A5E92DC2EBF64F0F8A8C88D8867D2806"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -495,13 +945,67 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_ADA7CD44DF994AB8912E37AD469B15D8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_AF3785B1B2664AB4B41F00579BDCAD78"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
+        "MsmKey" = "8:_B0B90B51C04A49EE9591DC8F9F6E3F69"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B1570A282A2245D7B9E9971222DF32FE"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B19AC291E32E4B9C8EB0202A55B103C4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_B1E6EF276AF14E2FBCB4DB0D285ECD74"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B25EF1C6C601496BA5B7E0661C672A9A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B2F5C190ADE549C58C9B192E17425914"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B3AFDC0829BF49A1AC019353F0015588"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B5407D07A7DE4894A4D416961263184B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B88788A4456A42D8A2208839DE7CAB98"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -519,7 +1023,25 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_BBA052CDFE2246B6AEED4C9F25EADD1A"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BC11F043C387484BB0B095BDF4CB601C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_BC902D2ADB3B419087166AA80D6A2643"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BE3A1C9B2B1A4F278AF47533E159E9D1"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -549,6 +1071,12 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_C697789FF6434E639108396E74EC954C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_C7B2786A4BF44E47AF914848399B7FE7"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
@@ -562,6 +1090,18 @@
         "Entry"
         {
         "MsmKey" = "8:_C8BAB9A47E0F441B91F3CECBE14DA8FF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_C919958D01F84ECF8771DF69171263B8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CD9896FAD4E942298C8A1D267F50CCB9"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -585,7 +1125,37 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D2354427FA674B5D83BCDC974213E44F"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D3719A50C94940D486AFB1B92EE5E7B4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D3ABA6C785C849B4B583D1A0E7A872F0"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D3B9B0E030B54ED9985A700FFC5BFEC8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D3ED2D1193B34690907FFAD91B3929E5"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D43A75F5311F415D96A2FDAD51F3E93E"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -597,7 +1167,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_D78A213ADEAB4DDBA16D85BB47E3CB63"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_D7B8708A53294A3FB9E5161C5E182371"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D8C408663B8E471FAAF5A04B617E7423"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -609,13 +1191,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_DB0096FAE5134700AB4D87F8CBCF3DCB"
+        "MsmKey" = "8:_D9C275D58E96455782287BA536E6C714"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_DBE534BAA58E4DA793CBC98D7EA0F998"
+        "MsmKey" = "8:_DB0096FAE5134700AB4D87F8CBCF3DCB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -627,7 +1209,19 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_DDF7273A5F0C40A89D9512E96C0782C3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_DE5046ADA16C4E948B7E60113B94E9BF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DFCD26B678EE42BBB8FD732AB87A750B"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -669,7 +1263,97 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_E6AFC19C98254E58BD509A3FA59D1501"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_E76550B51C2D4400ADE3823BF46913FA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E8ED639782B5F39CD1BFC6E05B31C852"
+        "OwnerKey" = "8:_F80CB8D0E9E1E1040E812FD200245520"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E8ED639782B5F39CD1BFC6E05B31C852"
+        "OwnerKey" = "8:_D3ED2D1193B34690907FFAD91B3929E5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E8ED639782B5F39CD1BFC6E05B31C852"
+        "OwnerKey" = "8:_3B2CC2E1FF5A46819A5E1A1750844D80"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_F0D2DBA3B09B4AD4A46D557D23098A97"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_E6AFC19C98254E58BD509A3FA59D1501"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_D2354427FA674B5D83BCDC974213E44F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_8FC7BB0C6EF549B1A969E2E1AC109EA8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_80C5950DF5D84766A4CA13431C4ED17B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_D9C275D58E96455782287BA536E6C714"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_890C90E63C6547F99770BE3883B5C4F8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "OwnerKey" = "8:_BC11F043C387484BB0B095BDF4CB601C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E9C8465F7EB44D4295492249D3CC44F4"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EC13881F4FCE438BA8610E794CFF79C6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -681,7 +1365,13 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_EE8D71B342E74B548C1EFD09733857D2"
+        "MsmKey" = "8:_F03469AE7C7445C6BEFC0B105FC9A656"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F0D2DBA3B09B4AD4A46D557D23098A97"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -693,7 +1383,37 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_F22626B21F5446A7AC2748E537FF7D8C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F428BB601B294176A68C2ADA159121F8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_F6B811E59B1E4341BBEA4EE37B1BDD0C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F80CB8D0E9E1E1040E812FD200245520"
+        "OwnerKey" = "8:_D9C275D58E96455782287BA536E6C714"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F80CB8D0E9E1E1040E812FD200245520"
+        "OwnerKey" = "8:_E6AFC19C98254E58BD509A3FA59D1501"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FBA275612ADE4B419A55E174AE6EF04D"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -719,6 +1439,156 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_3633F9AB98834D6A985990223FACD3E5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_04DBB00BD5714968AD2AA0E7CD4EDE29"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_3B2CC2E1FF5A46819A5E1A1750844D80"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_80C5950DF5D84766A4CA13431C4ED17B"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D9C275D58E96455782287BA536E6C714"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_F80CB8D0E9E1E1040E812FD200245520"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E8ED639782B5F39CD1BFC6E05B31C852"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_890C90E63C6547F99770BE3883B5C4F8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_803331D4DB644E17B42DF0CBCB0D74B7"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D43A75F5311F415D96A2FDAD51F3E93E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_164E92628CBB426EB9713601ABF47A91"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_086CB6A078AF47B5ACAE057FAE59DA2A"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_BC11F043C387484BB0B095BDF4CB601C"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5EB5FB76423215EBD5BAEF159AFA1F25"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E93E758884443DC1426A59BBADE3E1AB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_4BD2FA24BD694C39B4687923F893126D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D3ED2D1193B34690907FFAD91B3929E5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D2354427FA674B5D83BCDC974213E44F"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E6AFC19C98254E58BD509A3FA59D1501"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_8FC7BB0C6EF549B1A969E2E1AC109EA8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_60B0EB43C69940F0BC759CD46415F8C0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_735180B16C8FB5A7CB6D49834511A859"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9962AF4A7B464AB894D09EFFF84BDCE8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_40EC1BB47407452FB2AB3388806860A2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_89FD0591B23843DFABCED6539CDC2B4D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_F0D2DBA3B09B4AD4A46D557D23098A97"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -831,6 +1701,26 @@
         }
         "File"
         {
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_00B4049293A50F583B617CD40A1A5678"
+            {
+            "SourcePath" = "8:mscorlib.tlb"
+            "TargetName" = "8:mscorlib.tlb"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:2"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_013A8B2A14204B9B86713EAB18DEC37D"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\opencv_imgproc249.dll"
@@ -851,12 +1741,94 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_04DBB00BD5714968AD2AA0E7CD4EDE29"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_04DBB00BD5714968AD2AA0E7CD4EDE29"
+                    {
+                    "Name" = "8:UnityEngine.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\UnityEngine.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_074F5FD6E1644F7FAB4B37838F181B04"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\test_videos\\Rotation2.avi"
             "TargetName" = "8:Rotation2.avi"
             "Tag" = "8:"
             "Folder" = "8:_3070B8E0E8C54243BAC5C2F5E9FA4835"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_07A9A36DF1A44246A97697FD8D744EBA"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\mainData"
+            "TargetName" = "8:mainData"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_086CB6A078AF47B5ACAE057FAE59DA2A"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Security, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_086CB6A078AF47B5ACAE057FAE59DA2A"
+                    {
+                    "Name" = "8:Mono.Security.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\Mono.Security.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -931,12 +1903,83 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0DC083300DD547FF9DA437C55CBF4653"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\2.0\\settings.map"
+            "TargetName" = "8:settings.map"
+            "Tag" = "8:"
+            "Folder" = "8:_FB939AE2368043B09EF919D904F2E640"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0EDE0C5B09A14DC6888AE6C23DB68F0D"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\META-INF\\AIR\\application.xml"
+            "TargetName" = "8:application.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_F0D35C443E404E1B98294B90C626F1FB"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_107F052065C943178714540F33C040BF"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\images\\BigBlobbyIcon-32x32.ico"
             "TargetName" = "8:BigBlobbyIcon-32x32.ico"
             "Tag" = "8:"
             "Folder" = "8:_215295CBCD4348B6AC1459AA8F73816E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_164E92628CBB426EB9713601ABF47A91"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:OSCsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_164E92628CBB426EB9713601ABF47A91"
+                    {
+                    "Name" = "8:OSCsharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\OSCsharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -991,6 +2034,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1E3CED057F6045A2A4C925B04D1B63F2"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\KittenFingers\\KittenFingers.swf"
+            "TargetName" = "8:KittenFingers.swf"
+            "Tag" = "8:"
+            "Folder" = "8:_658BD7332AAD410BA91A0AB1712A530C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1E3E6AA9A05F4B968ECB6D962FDC4F0E"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\ZapSlappe.swf"
+            "TargetName" = "8:ZapSlappe.swf"
+            "Tag" = "8:"
+            "Folder" = "8:_38A2F087B6334BADA2EB6608A18A99A6"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1F67D78E82C94D97AD5F4B21CF0056DF"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\platforms\\qwindows.dll"
@@ -1011,12 +2094,163 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2094C9B2591642D3A35675AC5604D0FB"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FingerPaintFullScreen\\FingerPaint.exe"
+            "TargetName" = "8:FingerPaint.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_6955CBFB35644A9796345FBD22B21463"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_21288894467F48679B4C62C4C9A29833"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\images\\particle.png"
             "TargetName" = "8:particle.png"
             "Tag" = "8:"
             "Folder" = "8:_215295CBCD4348B6AC1459AA8F73816E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2128919AB8B64F66A8B917C7B116A831"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Resources\\unity_builtin_extra"
+            "TargetName" = "8:unity_builtin_extra"
+            "Tag" = "8:"
+            "Folder" = "8:_EDF104FAAEC64E44972C7EE6B5D90392"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_21EF2AC529B043A197620D24C3591163"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\config"
+            "TargetName" = "8:config"
+            "Tag" = "8:"
+            "Folder" = "8:_BF203839B7234BB8B980E41F376C8174"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_23DFB6953624400B87D106583D2BF29A"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\mono.dll"
+            "TargetName" = "8:mono.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_AA2A77DDEAF64B2691430BE14AE6DA1A"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_259D2D8F08334A87B2B44A6B15F8CA77"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\META-INF\\AIR\\hash"
+            "TargetName" = "8:hash"
+            "Tag" = "8:"
+            "Folder" = "8:_78F4B24AF7964DD1A903F8FC447B3702"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_25BA0F135B924575B5D2F8D3D1766593"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_25BA0F135B924575B5D2F8D3D1766593"
+                    {
+                    "Name" = "8:mscorlib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\mscorlib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_266319C34C9443B4B6B28DC893F0DDCA"
+            {
+            "SourcePath" = "8:..\\LICENSE.md"
+            "TargetName" = "8:LICENSE.md"
+            "Tag" = "8:"
+            "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1111,6 +2345,66 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2B61479D7E1447F0840085A9DFF7FF13"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\LICENSE.md"
+            "TargetName" = "8:LICENSE.md"
+            "Tag" = "8:"
+            "Folder" = "8:_2578AA9AA0B84B3995D5B223AADEFAA1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2D3C762158B645AD8FB196395BA31134"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Fire\\FireFingers-playsurface-icon.png"
+            "TargetName" = "8:FireFingers-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_80B7686FE6484C99A920B3FA531BB961"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2E94D055B59849B7B84CA2FCEF8023DB"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6.exe"
+            "TargetName" = "8:Knob_6.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_BB3973EB78CF4115893064FE58717A61"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_301BA77981E44424B0B84041DBC71F3F"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\ippsa6-5.3.dll"
@@ -1131,12 +2425,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3497ECED63F44862A7D21E106F91E568"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Resources\\unity_builtin_extra"
+            "TargetName" = "8:unity_builtin_extra"
+            "Tag" = "8:"
+            "Folder" = "8:_7E33ED8C46554BB081DEBA5575962065"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_357536121C67423CBDC5D0D9FE32C931"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\automat.ttf"
             "TargetName" = "8:automat.ttf"
             "Tag" = "8:"
             "Folder" = "8:_94213E521882432A91F144D0EBB12300"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_360A90D7F35F4C4D865FCD59896C68E0"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\META-INF\\AIR\\hash"
+            "TargetName" = "8:hash"
+            "Tag" = "8:"
+            "Folder" = "8:_F0D35C443E404E1B98294B90C626F1FB"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1222,6 +2556,77 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_380B3343B86A488E8F2B7086318A6ACF"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\mconfig\\config.xml"
+            "TargetName" = "8:config.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_485D9E0D0D604C548A1938A16363456A"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3848EAFA7B5F4A7DBF2B7D0769C70D4E"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Fire\\FireFingers.swf"
+            "TargetName" = "8:FireFingers.swf"
+            "Tag" = "8:"
+            "Folder" = "8:_80B7686FE6484C99A920B3FA531BB961"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_3B2CC2E1FF5A46819A5E1A1750844D80"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TUIOsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_3B2CC2E1FF5A46819A5E1A1750844D80"
+                    {
+                    "Name" = "8:TUIOsharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\TUIOsharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_3C011E49515E46E1A9F624895A68D7A3"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\ippi-5.3.dll"
@@ -1248,6 +2653,57 @@
             "TargetName" = "8:ipps-5.3.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_40EC1BB47407452FB2AB3388806860A2"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:OSCsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_40EC1BB47407452FB2AB3388806860A2"
+                    {
+                    "Name" = "8:OSCsharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\OSCsharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_46C8580455CD49C896C41B7238FDA915"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\PlaysurfaceTouch.swf"
+            "TargetName" = "8:PlaysurfaceTouch.swf"
+            "Tag" = "8:"
+            "Folder" = "8:_B9CE462695EC474FA286054845301451"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1342,6 +2798,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_4BD2FA24BD694C39B4687923F893126D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_4BD2FA24BD694C39B4687923F893126D"
+                    {
+                    "Name" = "8:UnityEngine.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\UnityEngine.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_4E3507124C5F4FE59E6AA7D0DBFF9DBA"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\TouchHooks2Tuio.exe"
@@ -1382,12 +2869,132 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51BB625890494DC1B00D5B8638A0F0FF"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\TouchHooks2Tuio-GUI.png"
+            "TargetName" = "8:TouchHooks2Tuio-GUI.png"
+            "Tag" = "8:"
+            "Folder" = "8:_2578AA9AA0B84B3995D5B223AADEFAA1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_51D9004E564141638B931293F30DF761"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\mono.dll"
+            "TargetName" = "8:mono.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_E6AF43A6B56A4E03929D07C1A1035E5F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_52DD8E643A0A478F880BFDAB9F5AC7AB"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\mainData"
+            "TargetName" = "8:mainData"
+            "Tag" = "8:"
+            "Folder" = "8:_D84A28AED17D4FBE9D4D1B737B98E952"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5398FA03FD3248A49B7FD840720BE157"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\PlaysurfaceLauncher-GUI.jpg"
+            "TargetName" = "8:PlaysurfaceLauncher-GUI.jpg"
+            "Tag" = "8:"
+            "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_549DF76670AF4220AD4C3DCAFAA05C03"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\opencv_core249.dll"
             "TargetName" = "8:opencv_core249.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_567AEA1F72F84C9293B0A0E1B89EA814"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx"
+            "TargetName" = "8:DefaultWsdlHelpGenerator.aspx"
+            "Tag" = "8:"
+            "Folder" = "8:_E5D9AF33E9E3427FAFDB977E2B2D450E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_56E810E9371A4FCF8670FCDA5C5B83AB"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\browscap.ini"
+            "TargetName" = "8:browscap.ini"
+            "Tag" = "8:"
+            "Folder" = "8:_C044E46294CC4FD5BFB6C833E1DEDCED"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1502,6 +3109,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5A704F16D08C4B668A8AB7F934ED37E7"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\README.md"
+            "TargetName" = "8:README.md"
+            "Tag" = "8:"
+            "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5B00327E006541DAAE6B652B6A025E6F"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\QtXml4.dll"
@@ -1542,12 +3169,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C966AE2CF8D4EF99C204914D8946D0E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C0084D91C11417689307DDC6F4E1B31"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\BigBlobby.pdb"
-            "TargetName" = "8:BigBlobby.pdb"
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\1.0\\machine.config"
+            "TargetName" = "8:machine.config"
             "Tag" = "8:"
-            "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Folder" = "8:_5F07CA1CBF1B4117AB4A4C329EE1FC2E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1562,12 +3189,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5DA44D22D2214E1EB8EC4DA5092041CF"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C43F393FAB4457E9B5AEB9138777BDE"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\LICENSE.txt"
-            "TargetName" = "8:LICENSE.txt"
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\StencylPaint\\StencylPaint-playsurface-icon.png"
+            "TargetName" = "8:StencylPaint-playsurface-icon.png"
             "Tag" = "8:"
-            "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
+            "Folder" = "8:_7F71ACC75DA94E0FBB4F50B5F1FCF11F"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1580,6 +3207,57 @@
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
             "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5E56F235C70A42D399CFDB45590F3899"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\zapSlappe-playsurface-icon.png"
+            "TargetName" = "8:zapSlappe-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_38A2F087B6334BADA2EB6608A18A99A6"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5EB5FB76423215EBD5BAEF159AFA1F25"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_5EB5FB76423215EBD5BAEF159AFA1F25"
+                    {
+                    "Name" = "8:TouchScript.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:TouchScript.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5F753507554A4F8E9BA8C9E867425888"
@@ -1588,6 +3266,37 @@
             "TargetName" = "8:calibration.xml"
             "Tag" = "8:"
             "Folder" = "8:_BDD74357A8B14573AF787FC2CFD4C54E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_60B0EB43C69940F0BC759CD46415F8C0"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_60B0EB43C69940F0BC759CD46415F8C0"
+                    {
+                    "Name" = "8:System.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\System.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1642,12 +3351,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66AC5AB2FDD64FBABCF8C6CC2AABBB5F"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_660442795AD1477590120D3979114537"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\zlib1.dll"
-            "TargetName" = "8:zlib1.dll"
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\mconfig\\config.xml"
+            "TargetName" = "8:config.xml"
             "Tag" = "8:"
-            "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Folder" = "8:_FF929CA44BD04E4B8129A64AD5A9572C"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1662,12 +3371,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_67D512D687DE40209A90DC696BF584CB"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66AC5AB2FDD64FBABCF8C6CC2AABBB5F"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\README-and-LICENSE\\README.txt"
-            "TargetName" = "8:README.txt"
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\zlib1.dll"
+            "TargetName" = "8:zlib1.dll"
             "Tag" = "8:"
-            "Folder" = "8:_D818F0D563C1437AB0870B3110CB2FEC"
+            "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1702,12 +3411,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6B5B98AE70B34BF188AE7828E6634793"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\TouchSplosions\\TouchSplosions Game 2.swf"
+            "TargetName" = "8:TouchSplosions Game 2.swf"
+            "Tag" = "8:"
+            "Folder" = "8:_E05D6B0FAC0C4768BF20D1618C4CB2DE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6D3F1F0585154414BF607EB77832608F"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\opencv_highgui249.dll"
             "TargetName" = "8:opencv_highgui249.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6DC55D4570AC459C99F80C9A05342425"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\1.0\\DefaultWsdlHelpGenerator.aspx"
+            "TargetName" = "8:DefaultWsdlHelpGenerator.aspx"
+            "Tag" = "8:"
+            "Folder" = "8:_5F07CA1CBF1B4117AB4A4C329EE1FC2E"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1782,12 +3531,63 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_70D639B9453549AD898133401B25E0EF"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\browscap.ini"
+            "TargetName" = "8:browscap.ini"
+            "Tag" = "8:"
+            "Folder" = "8:_BF203839B7234BB8B980E41F376C8174"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_71657339DC3F46989F5E38B847F41679"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\settings\\FactoryBlobParams.xml"
             "TargetName" = "8:FactoryBlobParams.xml"
             "Tag" = "8:"
             "Folder" = "8:_636619AE494940E1A206DE81475E4207"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_720A22D5BC8B4C278C2C3A952D17081D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:mscorlib, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_720A22D5BC8B4C278C2C3A952D17081D"
+                    {
+                    "Name" = "8:mscorlib.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\mscorlib.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1862,6 +3662,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_735180B16C8FB5A7CB6D49834511A859"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Security, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_735180B16C8FB5A7CB6D49834511A859"
+                    {
+                    "Name" = "8:Mono.Security.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Mono.Security.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_75AF88ACE6684F458D28D6CD16C81F93"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\glut32.dll"
@@ -1888,6 +3719,26 @@
             "TargetName" = "8:dsvl.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_76479ADCA91845759E25BBB9363FDE95"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\sharedassets0.assets"
+            "TargetName" = "8:sharedassets0.assets"
+            "Tag" = "8:"
+            "Folder" = "8:_D84A28AED17D4FBE9D4D1B737B98E952"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1942,12 +3793,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7860CF0C49BE40E6BFC091B7B40157BE"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\FiducialMarkers.PDF"
+            "TargetName" = "8:FiducialMarkers.PDF"
+            "Tag" = "8:"
+            "Folder" = "8:_BB3973EB78CF4115893064FE58717A61"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_788B8D080BA54D08922FBF8D34FADE3A"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\ippch-5.3.dll"
             "TargetName" = "8:ippch-5.3.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7B022192936A4CECB10576D835AACA7D"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\PlaysurfaceTouch.exe"
+            "TargetName" = "8:PlaysurfaceTouch.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_B9CE462695EC474FA286054845301451"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -1982,6 +3873,46 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7CD20F0A9F7A4651A581ECFD2C712A75"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\StencylPaint\\StencylPaint.swf"
+            "TargetName" = "8:StencylPaint.swf"
+            "Tag" = "8:"
+            "Folder" = "8:_7F71ACC75DA94E0FBB4F50B5F1FCF11F"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7D613255A0B142F4AE14C587832EE5BD"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\mimetype"
+            "TargetName" = "8:mimetype"
+            "Tag" = "8:"
+            "Folder" = "8:_B9CE462695EC474FA286054845301451"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7DFED5C60DFA4D43AAB76C0EE3A1373F"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\imageformats\\qgif4.dll"
@@ -2002,12 +3933,114 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7E3FB0ACF74848199097D2AF95958325"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\README.md"
+            "TargetName" = "8:README.md"
+            "Tag" = "8:"
+            "Folder" = "8:_2578AA9AA0B84B3995D5B223AADEFAA1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7F3B6414066545058F7FBD3D779776B4"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\Qt5Multimedia.dll"
             "TargetName" = "8:Qt5Multimedia.dll"
             "Tag" = "8:"
             "Folder" = "8:_2578AA9AA0B84B3995D5B223AADEFAA1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_803331D4DB644E17B42DF0CBCB0D74B7"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_803331D4DB644E17B42DF0CBCB0D74B7"
+                    {
+                    "Name" = "8:System.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\System.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_804D821C68BA46B5BB3EEE2A41D6680E"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\sharedassets1.assets"
+            "TargetName" = "8:sharedassets1.assets"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_80C5950DF5D84766A4CA13431C4ED17B"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript.Windows, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_80C5950DF5D84766A4CA13431C4ED17B"
+                    {
+                    "Name" = "8:TouchScript.Windows.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\TouchScript.Windows.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2102,6 +4135,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_836042FDEEDD403385E2D0743B9C0806"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\LICENSE.md"
+            "TargetName" = "8:LICENSE.md"
+            "Tag" = "8:"
+            "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_83CC70BDC0464AE8A6A4AC34223DC395"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\test_videos\\Hover2.avi"
@@ -2128,6 +4181,188 @@
             "TargetName" = "8:libPocoNet.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_86DB3D053EA44755944EC10FDF4CCD3E"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\playsurfaceTouch-playsurface-icon.png"
+            "TargetName" = "8:playsurfaceTouch-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_B9CE462695EC474FA286054845301451"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_882551B8FE1F4C72A0F94FF198654884"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\2.0\\web.config"
+            "TargetName" = "8:web.config"
+            "Tag" = "8:"
+            "Folder" = "8:_FB939AE2368043B09EF919D904F2E640"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_890C90E63C6547F99770BE3883B5C4F8"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_890C90E63C6547F99770BE3883B5C4F8"
+                    {
+                    "Name" = "8:TouchScript.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\TouchScript.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_89FD0591B23843DFABCED6539CDC2B4D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Security, Version=2.0.5.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_89FD0591B23843DFABCED6539CDC2B4D"
+                    {
+                    "Name" = "8:Mono.Security.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\Mono.Security.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8B059FBC5094418BBBE0A8FE8E488FD4"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FingerPaintFullScreen\\QtCore4.dll"
+            "TargetName" = "8:QtCore4.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_6955CBFB35644A9796345FBD22B21463"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8BB78BD68E4E4BAB9215301DFA32764D"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\PlayerConnectionConfigFile"
+            "TargetName" = "8:PlayerConnectionConfigFile"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8CB1D7C335194481A6319FB2E99EF576"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\META-INF\\signatures.xml"
+            "TargetName" = "8:signatures.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_E329428C974741A4B86E4D2534401790"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8D59B8F4F60B45AA87EE77FEA03965C1"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\TouchSplosions\\touchSplosions-playsurface-icon.png"
+            "TargetName" = "8:touchSplosions-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_E05D6B0FAC0C4768BF20D1618C4CB2DE"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2182,6 +4417,37 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8FC7BB0C6EF549B1A969E2E1AC109EA8"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8FC7BB0C6EF549B1A969E2E1AC109EA8"
+                    {
+                    "Name" = "8:TouchScript.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\TouchScript.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9176FE75F10D4823A281B3351E5CD991"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\test_videos\\FiveFingers.avi"
@@ -2208,6 +4474,26 @@
             "TargetName" = "8:ippjpx-5.3.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_938DEABC00DA41EABC2395BD9396DDDB"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\1.0\\DefaultWsdlHelpGenerator.aspx"
+            "TargetName" = "8:DefaultWsdlHelpGenerator.aspx"
+            "Tag" = "8:"
+            "Folder" = "8:_04DA05E79B0246A580AAEBB51855AF62"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2282,6 +4568,57 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9962AF4A7B464AB894D09EFFF84BDCE8"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9962AF4A7B464AB894D09EFFF84BDCE8"
+                    {
+                    "Name" = "8:System.Core.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\System.Core.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9A7B7FC940764D28A56CD5F702B476D9"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\resources.assets"
+            "TargetName" = "8:resources.assets"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9C2E47EB38524AD4AF82ADDC5EAD0FB3"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\Sounds\\Laser.wav"
@@ -2342,6 +4679,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A2741253E708439788BE00DC799F8AC6"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\PlaysurfaceTouch\\META-INF\\AIR\\application.xml"
+            "TargetName" = "8:application.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_78F4B24AF7964DD1A903F8FC447B3702"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A2C05A39FA7C430F8C06ECA07F635223"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\Zlib.dll"
@@ -2368,6 +4725,66 @@
             "TargetName" = "8:Hover1.avi"
             "Tag" = "8:"
             "Folder" = "8:_3070B8E0E8C54243BAC5C2F5E9FA4835"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A33A05725EC64703AE98654B09032190"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\PlayerConnectionConfigFile"
+            "TargetName" = "8:PlayerConnectionConfigFile"
+            "Tag" = "8:"
+            "Folder" = "8:_D84A28AED17D4FBE9D4D1B737B98E952"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A5954717966947048F5FE1777E78C250"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\META-INF\\signatures.xml"
+            "TargetName" = "8:signatures.xml"
+            "Tag" = "8:"
+            "Folder" = "8:_3561FAD5A6494E6DAC41D627ADDAE8F8"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A5E92DC2EBF64F0F8A8C88D8867D2806"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\2.0\\Browsers\\Compat.browser"
+            "TargetName" = "8:Compat.browser"
+            "Tag" = "8:"
+            "Folder" = "8:_0B82B6A8531C47089D3FC8116E52800A"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2442,6 +4859,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_ADA7CD44DF994AB8912E37AD469B15D8"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\2.0\\settings.map"
+            "TargetName" = "8:settings.map"
+            "Tag" = "8:"
+            "Folder" = "8:_E5D9AF33E9E3427FAFDB977E2B2D450E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_AF3785B1B2664AB4B41F00579BDCAD78"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\HideTaskbar.exe"
@@ -2462,12 +4899,172 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B0B90B51C04A49EE9591DC8F9F6E3F69"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\2.0\\machine.config"
+            "TargetName" = "8:machine.config"
+            "Tag" = "8:"
+            "Folder" = "8:_E5D9AF33E9E3427FAFDB977E2B2D450E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B1570A282A2245D7B9E9971222DF32FE"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\2.0\\machine.config"
+            "TargetName" = "8:machine.config"
+            "Tag" = "8:"
+            "Folder" = "8:_FB939AE2368043B09EF919D904F2E640"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B19AC291E32E4B9C8EB0202A55B103C4"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FingerPaintFullScreen\\fingerPaint-playsurface-icon.png"
+            "TargetName" = "8:fingerPaint-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_6955CBFB35644A9796345FBD22B21463"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B1E6EF276AF14E2FBCB4DB0D285ECD74"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\icuuc53.dll"
             "TargetName" = "8:icuuc53.dll"
             "Tag" = "8:"
             "Folder" = "8:_2578AA9AA0B84B3995D5B223AADEFAA1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B25EF1C6C601496BA5B7E0661C672A9A"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\config"
+            "TargetName" = "8:config"
+            "Tag" = "8:"
+            "Folder" = "8:_C044E46294CC4FD5BFB6C833E1DEDCED"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B2F5C190ADE549C58C9B192E17425914"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\2.0\\Browsers\\Compat.browser"
+            "TargetName" = "8:Compat.browser"
+            "Tag" = "8:"
+            "Folder" = "8:_8E98D8ED9C6348849399F712E9DD345E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B3AFDC0829BF49A1AC019353F0015588"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\README.md"
+            "TargetName" = "8:README.md"
+            "Tag" = "8:"
+            "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B5407D07A7DE4894A4D416961263184B"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\output_log.txt"
+            "TargetName" = "8:output_log.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_B88788A4456A42D8A2208839DE7CAB98"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FingerPaintFullScreen\\QtGui4.dll"
+            "TargetName" = "8:QtGui4.dll"
+            "Tag" = "8:"
+            "Folder" = "8:_6955CBFB35644A9796345FBD22B21463"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2522,12 +5119,83 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BBA052CDFE2246B6AEED4C9F25EADD1A"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Mono\\etc\\mono\\2.0\\DefaultWsdlHelpGenerator.aspx"
+            "TargetName" = "8:DefaultWsdlHelpGenerator.aspx"
+            "Tag" = "8:"
+            "Folder" = "8:_FB939AE2368043B09EF919D904F2E640"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BC11F043C387484BB0B095BDF4CB601C"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_BC11F043C387484BB0B095BDF4CB601C"
+                    {
+                    "Name" = "8:Assembly-CSharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\Assembly-CSharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BC902D2ADB3B419087166AA80D6A2643"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\ippipx-5.3.dll"
             "TargetName" = "8:ippipx-5.3.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BE3A1C9B2B1A4F278AF47533E159E9D1"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1.exe"
+            "TargetName" = "8:ftlPhysics9.1.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_77AE9C8362DC403B823E513ED926710F"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2622,6 +5290,26 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C697789FF6434E639108396E74EC954C"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\ScreenSelector.bmp"
+            "TargetName" = "8:ScreenSelector.bmp"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C7B2786A4BF44E47AF914848399B7FE7"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\winusb.dll"
@@ -2668,6 +5356,46 @@
             "TargetName" = "8:cxcore100.dll"
             "Tag" = "8:"
             "Folder" = "8:_DF61A10FEACA4F8E81363B9D7F2A2F14"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_C919958D01F84ECF8771DF69171263B8"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\KittenFingers\\KittenFingers-playsurface-icon.png"
+            "TargetName" = "8:KittenFingers-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_658BD7332AAD410BA91A0AB1712A530C"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD9896FAD4E942298C8A1D267F50CCB9"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\ZapSlappe.exe"
+            "TargetName" = "8:ZapSlappe.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_38A2F087B6334BADA2EB6608A18A99A6"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2742,12 +5470,145 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D2354427FA674B5D83BCDC974213E44F"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript.Windows, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D2354427FA674B5D83BCDC974213E44F"
+                    {
+                    "Name" = "8:TouchScript.Windows.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\TouchScript.Windows.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3719A50C94940D486AFB1B92EE5E7B4"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Resources\\unity default resources"
+            "TargetName" = "8:unity default resources"
+            "Tag" = "8:"
+            "Folder" = "8:_EDF104FAAEC64E44972C7EE6B5D90392"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3ABA6C785C849B4B583D1A0E7A872F0"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\icudt53.dll"
             "TargetName" = "8:icudt53.dll"
             "Tag" = "8:"
             "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3B9B0E030B54ED9985A700FFC5BFEC8"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FingerPaintFullScreen\\LICENSE.txt"
+            "TargetName" = "8:LICENSE.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_6955CBFB35644A9796345FBD22B21463"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D3ED2D1193B34690907FFAD91B3929E5"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TUIOsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D3ED2D1193B34690907FFAD91B3929E5"
+                    {
+                    "Name" = "8:TUIOsharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\TUIOsharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D43A75F5311F415D96A2FDAD51F3E93E"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.Core, Version=2.0.5.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D43A75F5311F415D96A2FDAD51F3E93E"
+                    {
+                    "Name" = "8:System.Core.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\System.Core.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2782,12 +5643,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D78A213ADEAB4DDBA16D85BB47E3CB63"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6-playsurface-icon.png"
+            "TargetName" = "8:Knob_6-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_BB3973EB78CF4115893064FE58717A61"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D7B8708A53294A3FB9E5161C5E182371"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\images\\Thumbs.db"
             "TargetName" = "8:Thumbs.db"
             "Tag" = "8:"
             "Folder" = "8:_215295CBCD4348B6AC1459AA8F73816E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D8C408663B8E471FAAF5A04B617E7423"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FingerPaintFullScreen\\README.txt"
+            "TargetName" = "8:README.txt"
+            "Tag" = "8:"
+            "Folder" = "8:_6955CBFB35644A9796345FBD22B21463"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2822,12 +5723,23 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DB0096FAE5134700AB4D87F8CBCF3DCB"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D9C275D58E96455782287BA536E6C714"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\Sounds\\Wolf.wav"
-            "TargetName" = "8:Wolf.wav"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript.TUIO, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D9C275D58E96455782287BA536E6C714"
+                    {
+                    "Name" = "8:TouchScript.TUIO.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Managed\\TouchScript.TUIO.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_5728E7E1D0B44A47B874F11C8A0E1239"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2842,12 +5754,12 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DBE534BAA58E4DA793CBC98D7EA0F998"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DB0096FAE5134700AB4D87F8CBCF3DCB"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\README-and-LICENSE\\Lesser_General_Public_License.txt"
-            "TargetName" = "8:Lesser_General_Public_License.txt"
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\Sounds\\Wolf.wav"
+            "TargetName" = "8:Wolf.wav"
             "Tag" = "8:"
-            "Folder" = "8:_D818F0D563C1437AB0870B3110CB2FEC"
+            "Folder" = "8:_5728E7E1D0B44A47B874F11C8A0E1239"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -2882,12 +5794,52 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DDF7273A5F0C40A89D9512E96C0782C3"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\ZapSlappe\\mimetype"
+            "TargetName" = "8:mimetype"
+            "Tag" = "8:"
+            "Folder" = "8:_38A2F087B6334BADA2EB6608A18A99A6"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DE5046ADA16C4E948B7E60113B94E9BF"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\TouchHooks2Tuio\\TouchHooks2Tuio-playsurface-icon.png"
             "TargetName" = "8:TouchHooks2Tuio-playsurface-icon.png"
             "Tag" = "8:"
             "Folder" = "8:_2578AA9AA0B84B3995D5B223AADEFAA1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_DFCD26B678EE42BBB8FD732AB87A750B"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\1.0\\machine.config"
+            "TargetName" = "8:machine.config"
+            "Tag" = "8:"
+            "Folder" = "8:_04DA05E79B0246A580AAEBB51855AF62"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3022,12 +5974,145 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E6AFC19C98254E58BD509A3FA59D1501"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TouchScript.Pro, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E6AFC19C98254E58BD509A3FA59D1501"
+                    {
+                    "Name" = "8:TouchScript.Pro.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\TouchScript.Pro.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E76550B51C2D4400ADE3823BF46913FA"
             {
             "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\BigBlobby\\data\\settings\\DefaultBlobParams.xml"
             "TargetName" = "8:DefaultBlobParams.xml"
             "Tag" = "8:"
             "Folder" = "8:_636619AE494940E1A206DE81475E4207"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E8ED639782B5F39CD1BFC6E05B31C852"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:OSCsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E8ED639782B5F39CD1BFC6E05B31C852"
+                    {
+                    "Name" = "8:OSCsharp.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:OSCsharp.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E93E758884443DC1426A59BBADE3E1AB"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:UnityEngine, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E93E758884443DC1426A59BBADE3E1AB"
+                    {
+                    "Name" = "8:UnityEngine.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:UnityEngine.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_E9C8465F7EB44D4295492249D3CC44F4"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\level0"
+            "TargetName" = "8:level0"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EC13881F4FCE438BA8610E794CFF79C6"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\sharedassets0.assets"
+            "TargetName" = "8:sharedassets0.assets"
+            "Tag" = "8:"
+            "Folder" = "8:_CA0063F447B74474AD0DAC57E76CD186"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3062,12 +6147,43 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_EE8D71B342E74B548C1EFD09733857D2"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F03469AE7C7445C6BEFC0B105FC9A656"
             {
-            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\README.txt"
-            "TargetName" = "8:README.txt"
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\output_log.txt"
+            "TargetName" = "8:output_log.txt"
             "Tag" = "8:"
-            "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
+            "Folder" = "8:_D84A28AED17D4FBE9D4D1B737B98E952"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F0D2DBA3B09B4AD4A46D557D23098A97"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Assembly-CSharp, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F0D2DBA3B09B4AD4A46D557D23098A97"
+                    {
+                    "Name" = "8:Assembly-CSharp.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Managed\\Assembly-CSharp.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_881453A3597A4E6D974208A58CA7D844"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3102,12 +6218,103 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F22626B21F5446A7AC2748E537FF7D8C"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\Knob_6\\Knob_6_Data\\Mono\\etc\\mono\\2.0\\web.config"
+            "TargetName" = "8:web.config"
+            "Tag" = "8:"
+            "Folder" = "8:_E5D9AF33E9E3427FAFDB977E2B2D450E"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F428BB601B294176A68C2ADA159121F8"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics9.1_Data\\Resources\\unity default resources"
+            "TargetName" = "8:unity default resources"
+            "Tag" = "8:"
+            "Folder" = "8:_7E33ED8C46554BB081DEBA5575962065"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
             "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F6B811E59B1E4341BBEA4EE37B1BDD0C"
             {
             "SourcePath" = "8:C:\\Qt\\Qt-5.4.1\\5.4\\msvc2013_opengl\\bin\\Qt5Network.dll"
             "TargetName" = "8:Qt5Network.dll"
             "Tag" = "8:"
             "Folder" = "8:_4C98BCC42840457EB8EB22CFBBF16352"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F80CB8D0E9E1E1040E812FD200245520"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:TUIOsharp, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F80CB8D0E9E1E1040E812FD200245520"
+                    {
+                    "Name" = "8:TUIOsharp.DLL"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:TUIOsharp.DLL"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_9FF9DAD7971E42D897852CA22725F2C3"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:TRUE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_FBA275612ADE4B419A55E174AE6EF04D"
+            {
+            "SourcePath" = "8:..\\PlaysurfaceLauncher\\bin\\MultitouchApps\\FtlPhysics\\ftlPhysics-playsurface-icon.png"
+            "TargetName" = "8:ftlPhysics-playsurface-icon.png"
+            "Tag" = "8:"
+            "Folder" = "8:_77AE9C8362DC403B823E513ED926710F"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -3253,6 +6460,402 @@
                     "Property" = "8:_41115A092C13475AB243D94117B458DB"
                         "Folders"
                         {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_38A2F087B6334BADA2EB6608A18A99A6"
+                            {
+                            "Name" = "8:ZapSlappe"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_731B4498C9D74B75BB47E43FD4613B9B"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_3561FAD5A6494E6DAC41D627ADDAE8F8"
+                                    {
+                                    "Name" = "8:META-INF"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_28DE1F4736F34B4294A8B8C15B2E5F53"
+                                        "Folders"
+                                        {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_F0D35C443E404E1B98294B90C626F1FB"
+                                            {
+                                            "Name" = "8:AIR"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_627F8B20787D4D1E8DD42F6D594EF8F9"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_658BD7332AAD410BA91A0AB1712A530C"
+                            {
+                            "Name" = "8:KittenFingers"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_51F14F60FD9241BF843E5DE8EC619B1B"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_6955CBFB35644A9796345FBD22B21463"
+                            {
+                            "Name" = "8:FingerPaintFullScreen"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_1FF4A45E0FF34B32B7B12E781B175A06"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_B6A39B103F244CF5B1FA55CDCC3C31FC"
+                                    {
+                                    "Name" = "8:Data"
+                                    "AlwaysCreate" = "11:TRUE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_8A6B2A7A26FF4550A3A9D6DF02CE74FB"
+                                        "Folders"
+                                        {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_F9DA366310224F1A9F5F8B8139080FF7"
+                                            {
+                                            "Name" = "8:Log"
+                                            "AlwaysCreate" = "11:TRUE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_DA6D950134894548A7797E6EDBE19893"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_77AE9C8362DC403B823E513ED926710F"
+                            {
+                            "Name" = "8:FtlPhysics"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_C81D4AFD675E431EAF9D5F8B0887946A"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_CA0063F447B74474AD0DAC57E76CD186"
+                                    {
+                                    "Name" = "8:ftlPhysics9.1_Data"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_F6B9CF7220DA412DAA507D8F8670CC52"
+                                        "Folders"
+                                        {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_7E33ED8C46554BB081DEBA5575962065"
+                                            {
+                                            "Name" = "8:Resources"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_FF6224A88626414CB9D1ADAD1E6E0755"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_881453A3597A4E6D974208A58CA7D844"
+                                            {
+                                            "Name" = "8:Managed"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_E783B9F3119B41E792D762AC00B094B7"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_BD45F83F9C814C6B9F30B459BB7E2F6A"
+                                            {
+                                            "Name" = "8:logs"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_2253D3CBE7724136AB73ED04EA3DDF80"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_E6AF43A6B56A4E03929D07C1A1035E5F"
+                                            {
+                                            "Name" = "8:Mono"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_6085BB0D267842FC85FEE4424B423C71"
+                                                "Folders"
+                                                {
+                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_2067DCB1CAD3445CB62901425B16E764"
+                                                    {
+                                                    "Name" = "8:etc"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "Property" = "8:_EFE5AC7BCAC94D81AFBE893F775657B2"
+                                                        "Folders"
+                                                        {
+                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_BF203839B7234BB8B980E41F376C8174"
+                                                            {
+                                                            "Name" = "8:mono"
+                                                            "AlwaysCreate" = "11:FALSE"
+                                                            "Condition" = "8:"
+                                                            "Transitive" = "11:FALSE"
+                                                            "Property" = "8:_E6D0D7D7E6E646E3B827BA74FAFA7942"
+                                                                "Folders"
+                                                                {
+                                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_5F07CA1CBF1B4117AB4A4C329EE1FC2E"
+                                                                    {
+                                                                    "Name" = "8:1.0"
+                                                                    "AlwaysCreate" = "11:FALSE"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "Property" = "8:_E4614E038AB441AA93F4E363E6AD1E8E"
+                                                                        "Folders"
+                                                                        {
+                                                                        }
+                                                                    }
+                                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_FB939AE2368043B09EF919D904F2E640"
+                                                                    {
+                                                                    "Name" = "8:2.0"
+                                                                    "AlwaysCreate" = "11:FALSE"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "Property" = "8:_2E32E9A94BB84996990FEFF215759CC1"
+                                                                        "Folders"
+                                                                        {
+                                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_8E98D8ED9C6348849399F712E9DD345E"
+                                                                            {
+                                                                            "Name" = "8:Browsers"
+                                                                            "AlwaysCreate" = "11:FALSE"
+                                                                            "Condition" = "8:"
+                                                                            "Transitive" = "11:FALSE"
+                                                                            "Property" = "8:_EB0B5C6181CA4338896C69C84B3A6C3E"
+                                                                                "Folders"
+                                                                                {
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_FF929CA44BD04E4B8129A64AD5A9572C"
+                                                                    {
+                                                                    "Name" = "8:mconfig"
+                                                                    "AlwaysCreate" = "11:FALSE"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "Property" = "8:_BDF600E75C034EA3B524E083A2804C07"
+                                                                        "Folders"
+                                                                        {
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_7F71ACC75DA94E0FBB4F50B5F1FCF11F"
+                            {
+                            "Name" = "8:StencylPaint"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_5CE6760D6CC34C738E2CEA097BB2FF7D"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_80B7686FE6484C99A920B3FA531BB961"
+                            {
+                            "Name" = "8:Fire"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_13E9D41D8F694CF4B670D64E43F3F3C5"
+                                "Folders"
+                                {
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_B9CE462695EC474FA286054845301451"
+                            {
+                            "Name" = "8:PlaysurfaceTouch"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_9A569E28B831419BBE599BDE92390036"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E329428C974741A4B86E4D2534401790"
+                                    {
+                                    "Name" = "8:META-INF"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_E5B523B7E3D84827AE65EB2EF894B74B"
+                                        "Folders"
+                                        {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_78F4B24AF7964DD1A903F8FC447B3702"
+                                            {
+                                            "Name" = "8:AIR"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_BB735DB172864B52942FB10431204DEA"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_BB3973EB78CF4115893064FE58717A61"
+                            {
+                            "Name" = "8:Knob_6"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_FC6A9B163B7F4FD2B901ECCAF473103E"
+                                "Folders"
+                                {
+                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_D84A28AED17D4FBE9D4D1B737B98E952"
+                                    {
+                                    "Name" = "8:Knob_6_Data"
+                                    "AlwaysCreate" = "11:FALSE"
+                                    "Condition" = "8:"
+                                    "Transitive" = "11:FALSE"
+                                    "Property" = "8:_9625B082755C48C090EF0D4020E9EDBB"
+                                        "Folders"
+                                        {
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_9FF9DAD7971E42D897852CA22725F2C3"
+                                            {
+                                            "Name" = "8:Managed"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_1B6EC021BA9F4A7EBCD1D7064411B288"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_AA2A77DDEAF64B2691430BE14AE6DA1A"
+                                            {
+                                            "Name" = "8:Mono"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_A4D67CC4B6C94B8EA19A419E5F46DBB2"
+                                                "Folders"
+                                                {
+                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_23AE0EE84C664CC787538FEA5B82E61D"
+                                                    {
+                                                    "Name" = "8:etc"
+                                                    "AlwaysCreate" = "11:FALSE"
+                                                    "Condition" = "8:"
+                                                    "Transitive" = "11:FALSE"
+                                                    "Property" = "8:_891CC39B42E4445F803877E338D999BB"
+                                                        "Folders"
+                                                        {
+                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_C044E46294CC4FD5BFB6C833E1DEDCED"
+                                                            {
+                                                            "Name" = "8:mono"
+                                                            "AlwaysCreate" = "11:FALSE"
+                                                            "Condition" = "8:"
+                                                            "Transitive" = "11:FALSE"
+                                                            "Property" = "8:_525D30F038884529A7C0948F2D24D107"
+                                                                "Folders"
+                                                                {
+                                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_04DA05E79B0246A580AAEBB51855AF62"
+                                                                    {
+                                                                    "Name" = "8:1.0"
+                                                                    "AlwaysCreate" = "11:FALSE"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "Property" = "8:_02817CF757344EAFBDB6BBF33C8FB1A6"
+                                                                        "Folders"
+                                                                        {
+                                                                        }
+                                                                    }
+                                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_485D9E0D0D604C548A1938A16363456A"
+                                                                    {
+                                                                    "Name" = "8:mconfig"
+                                                                    "AlwaysCreate" = "11:FALSE"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "Property" = "8:_1152636B1190498A8F5ACCFC866ECAFE"
+                                                                        "Folders"
+                                                                        {
+                                                                        }
+                                                                    }
+                                                                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E5D9AF33E9E3427FAFDB977E2B2D450E"
+                                                                    {
+                                                                    "Name" = "8:2.0"
+                                                                    "AlwaysCreate" = "11:FALSE"
+                                                                    "Condition" = "8:"
+                                                                    "Transitive" = "11:FALSE"
+                                                                    "Property" = "8:_C82C75DC8F854B2C886DCDB529E89806"
+                                                                        "Folders"
+                                                                        {
+                                                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_0B82B6A8531C47089D3FC8116E52800A"
+                                                                            {
+                                                                            "Name" = "8:Browsers"
+                                                                            "AlwaysCreate" = "11:FALSE"
+                                                                            "Condition" = "8:"
+                                                                            "Transitive" = "11:FALSE"
+                                                                            "Property" = "8:_A2BC3E30AD064F8A8897EDC9703CAA16"
+                                                                                "Folders"
+                                                                                {
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                            "{9EF0B969-E518-4E46-987F-47570745A589}:_EDF104FAAEC64E44972C7EE6B5D90392"
+                                            {
+                                            "Name" = "8:Resources"
+                                            "AlwaysCreate" = "11:FALSE"
+                                            "Condition" = "8:"
+                                            "Transitive" = "11:FALSE"
+                                            "Property" = "8:_C1CFCB776579437DBE29E4129DAE730D"
+                                                "Folders"
+                                                {
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_E05D6B0FAC0C4768BF20D1618C4CB2DE"
+                            {
+                            "Name" = "8:TouchSplosions"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_9E0038555E20435591DEC0B2D0051C09"
+                                "Folders"
+                                {
+                                }
+                            }
                         }
                     }
                     "{9EF0B969-E518-4E46-987F-47570745A589}:_45449D5B25874D8AA66C649A6A29A459"
@@ -3440,17 +7043,6 @@
                                     }
                                 }
                             }
-                            "{9EF0B969-E518-4E46-987F-47570745A589}:_D818F0D563C1437AB0870B3110CB2FEC"
-                            {
-                            "Name" = "8:README-and-LICENSE"
-                            "AlwaysCreate" = "11:FALSE"
-                            "Condition" = "8:"
-                            "Transitive" = "11:FALSE"
-                            "Property" = "8:_D8487CFEB48F4DCF85D051EB9C414C6D"
-                                "Folders"
-                                {
-                                }
-                            }
                         }
                     }
                 }
@@ -3516,7 +7108,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Playsurface Launcher"
         "ProductCode" = "8:{335556FE-C069-4CF8-9858-B45215B84BE9}"
-        "PackageCode" = "8:{8BD6B114-2833-4E25-9C30-8361673FF017}"
+        "PackageCode" = "8:{FF92322F-924E-4760-B210-3D0C0FBFDE9D}"
         "UpgradeCode" = "8:{95258324-1CF0-4BCF-A2C2-CA0AE78AFD6F}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
